@@ -1,0 +1,10 @@
+name: publish-container
+title: Basic Publish Container
+maintainer: solutionDrive GmbH
+copyright: solutionDrive GmbH
+copyright_email: info@solutiondrive.de
+summary: Verifies that bash, gpg and ssh exist
+version: 0.1.0
+supports:
+  - os-family: linux
+inspec_version: "~> 3.7"
